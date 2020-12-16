@@ -1,4 +1,4 @@
-# Weather-Forecast-App
+# Weather-Forecast-App (Ongoing Project)
 
 Building a weather forecasting app which will provide five days of weather forecast using the OpenWeatherMap API. 
 User will be able to set location, units, and weather notifications in the settings activity.
